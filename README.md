@@ -45,3 +45,6 @@ Here are some ideas to get you started:
  	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
  	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=ApacheTomcat&logoColor=white">
  	<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+
+### Main Project
+[로스트아크 정보 검색] (http://34.22.98.253:9000/main/index)
