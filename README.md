@@ -46,5 +46,8 @@ Here are some ideas to get you started:
  	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=ApacheTomcat&logoColor=white">
  	<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3)
+
 ### Main Project
-[로스트아크 정보 검색] (http://34.22.98.253:9000/main/index)
+
+[로스트아크 정보 검색](http://34.22.98.253:9000/main/index)
