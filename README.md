@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>서다슬</h2>
 
-<b></b>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&text=서다슬&animation=scaleIn&fontSize=35&fontColor=FFFFFF&height=200&fontAlign=15&fontAlignY=35)
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3)
 
 **🎂 Birth** <br>
