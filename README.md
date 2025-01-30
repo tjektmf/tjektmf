@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&text=서다슬&animation=scaleIn&fontSize=35&fontColor=FFFFFF&height=200&fontAlign=15&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&text=서다슬&animation=scaleIn&fontSize=25&fontColor=8a2be2&height=100&fontAlign=10&fontAlignY=70)
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3)
 
 **🎂 Birth** <br>
