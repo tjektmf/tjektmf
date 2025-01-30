@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>✨ About Me ✨ </h2>
+<h2>서다슬</h2>
 
 <b></b>
 
