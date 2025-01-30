@@ -65,7 +65,7 @@ https://ds0106855.tistory.com/
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3)
 
-### Main Project
+### 📖 Main Project
 
 ✨ [SmileGate, Discord API를 활용한 로스트아크 정보 검색 사이트](https://github.com/PigKidney/miracle_project) ✨
 <br>
