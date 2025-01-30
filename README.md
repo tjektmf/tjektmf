@@ -27,7 +27,7 @@ seul123ds@gmail.com
 **🐱 Notion**<br>
 [동급 최강 서다슬입니다](https://sticky-aster-0ff.notion.site/4857e2745e314bd7bbf82de9add1c30d?pvs=4)
 
-**📚 Blog**<br>
+**📝 Blog**<br>
 https://ds0106855.tistory.com/
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3)
