@@ -16,6 +16,19 @@ Here are some ideas to get you started:
 <h2>서다슬</h2>
 
 <b></b>
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3)
+
+**🎂 Birth** <br>
+1993.01.18
+
+**✉️ E-Mail**<br>
+seul123ds@gmail.com
+
+**🐱 Notion**<br>
+[동급 최강 서다슬입니다](https://sticky-aster-0ff.notion.site/4857e2745e314bd7bbf82de9add1c30d?pvs=4)
+
+**📚 Blog**<br>
+https://ds0106855.tistory.com/
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3)
 
@@ -28,12 +41,12 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
 	<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff">
  	<br>
-  <h4>Back</h4>
+	<h4>Back</h4>
    	<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 	<img src="https://img.shields.io/badge/Mybatis-000000?style=for-the-badge&logo=Mybatis&logoColor=white">
 	<br>
- <h4>DB</h4>
+	<h4>DB</h4>
 	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
 </div>
 
@@ -50,4 +63,8 @@ Here are some ideas to get you started:
 
 ### Main Project
 
-[로스트아크 정보 검색](http://34.22.98.253:9000/main/index)
+✨ [SmileGate, Discord API를 활용한 로스트아크 정보 검색 사이트](https://github.com/PigKidney/miracle_project) ✨
+<br>
+✨ [배스킨라빈스 키오스크](https://github.com/tjektmf/Project-KIOSK) ✨
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3)
